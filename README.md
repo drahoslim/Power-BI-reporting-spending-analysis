@@ -6,8 +6,12 @@ The goal was to learn about my spending and learn ways how to reduce costs of li
 
 ## This project demonstrates my ability to apply gather data, verifying the completeness of the data, establishing for reporting framework, create vizualization techniques.
 
-The final project includes tables of data, a powerpoint presentation and a Microsoft Power BI report.
-However due to personal information, I will not be releasing the data table about my personal spending to protect my privacy. Also I have decided to leave out a portion of vizualizations which contain information about the sources of money I used to finance my trip. On top of that, I have also redacted my final takeaways from the reporting regarding spending habits, as I again believe that this information is too private. So unfortunately, the only thing I am sharing is a PDF of the BI expense vizualitations.
+The final project include:
+- my personal financial transactions in a table
+- a powerpoint presentation
+- Microsoft Power BI report.
+
+However due to personal information, I will not be releasing the data table about my personal spending to protect my privacy. Also I have decided to leave out a portion of vizualizations which contain information about the sources of money I used to finance my trip. On top of that, I have also redacted my final takeaways from the reporting regarding spending habits, as I again believe that this information is too private. So unfortunately, the only thing I am sharing is a PDF of the BI expense vizualizations.
 
 Data & Methods
 - Data: bank transactions (multiple institutions, cash logs, foreign currency)
