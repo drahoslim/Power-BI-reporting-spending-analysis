@@ -7,7 +7,7 @@ The goal was to learn about my spending and learn ways how to reduce costs of li
 ## This project demonstrates my ability to apply gather data, verifying the completeness of the data, establishing for reporting framework, create vizualization techniques.
 
 The final project includes tables of data, a powerpoint presentation and a Microsoft Power BI report.
-However due to personal information, I will not be releaseing the data about my personal spending to protect my privacy. Also I have decided to leave out a portion of vizualizations which contain information about the sources of money I used to finance my trip. On top of that, I have also redacted my final takeaways from the reporting regarding spending habits, as I again believe that this information is too private.
+However due to personal information, I will not be releasing the data table about my personal spending to protect my privacy. Also I have decided to leave out a portion of vizualizations which contain information about the sources of money I used to finance my trip. On top of that, I have also redacted my final takeaways from the reporting regarding spending habits, as I again believe that this information is too private. So unfortunately, the only thing I am sharing is a PDF of the BI expense vizualitations.
 
 Data & Methods
 - Data: bank transactions (multiple institutions, cash logs, foreign currency)
@@ -28,5 +28,5 @@ Key spending takeaways:
 
 **In conclusion, I have reached my goal to gain insights from my spending habits. What also took some time is to figure out an accounting framework which does not skew my foreign transaction data away from reality.**
 
-**However, I realize that I want to be more effective during same steps in future projects, such as using a software to clean and structure the data rather than doing it manually in Microsoft Excel. Furthermore, I would make my projekct more aesthetic if I was reporting to management.**
+**However, I realize that I want to be more effective during same steps in future projects, such as using a software to clean and structure the data rather than doing it manually in Microsoft Excel. Furthermore, I would make my project more aesthetic if I was reporting to management.**
 
